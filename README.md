@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is the source code for a Yu-Gi-Oh fan-game which I wrote during the summer of 2014 (just after my first year of CS studies). It is a sequel to the PSX game [*Yugioh: Forbidden Memories*](http://ie.ign.com/games/yu-gi-oh-forbidden-memories/ps-488283). It is entirely written in c++ and is Windows only (as it makes use of windows.h) although it would not be too difficult to make it platform independent. You can see some example footage of the game [*here*](https://www.youtube.com/watch?v=1bn4HnzwNqM). You can also download a built Windows executable (which includes the card data and images) from [*this link*](https://drive.google.com/file/d/0B6-poY1j5gCTV2syemJGSHBidWs/view).  
+This is the source code for a Yu-Gi-Oh fan-game which I wrote during the summer of 2014 (just after my first year of CS studies). It is a sequel to the PSX game [*Yugioh: Forbidden Memories*](http://ie.ign.com/games/yu-gi-oh-forbidden-memories/ps-488283). It is entirely written in c++ and is Windows only (as it makes use of windows.h) although it would not be too difficult to make it platform independent. You can see some example footage of the game [*here*](https://www.youtube.com/watch?v=1bn4HnzwNqM). You can also download a built Windows executable (which includes the card data and images) from [*this link*](https://drive.google.com/file/d/0B6-poY1j5gCTV2syemJGSHBidWs/view) or [*this link*](https://drive.google.com/file/d/0B157xf35Ia0LZXRzUHg1QnlXenc/view?usp=sharing&resourcekey=0-3o8bqPKwTy7nPDlrm5Zl_Q).  
 
 ### On Code Quality
 
